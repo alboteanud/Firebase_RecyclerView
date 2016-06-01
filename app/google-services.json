@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "239671923818",
+    "firebase_url": "https://fireb-app-dan.firebaseio.com",
+    "project_id": "fireb-app-dan",
+    "storage_bucket": "fireb-app-dan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239671923818:android:d1c9afbbac826434",
+        "android_client_info": {
+          "package_name": "com.alboteanu.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239671923818-lguqpsr5c69183jk999480nro413t9lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVh7NTC3Ba4cnLZZvoYY6H4zbpwIcWtJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

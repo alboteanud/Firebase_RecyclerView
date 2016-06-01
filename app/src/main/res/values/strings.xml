@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">List</string>
+    <string name="title_item_detail">Detail</string>
+    <string name="hint_add_name">Name</string>
+    <string name="hint_add_detail_phone">Phone</string>
+    <string name="hint_add_detail">Detail</string>
+    <string name="person_icon" />
+    <string name="title_sign_in">Welcome</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="hint_password">password</string>
+    <string name="hint_email">email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="persons_node">persons</string>
+    <string name="positive_button_save">Save</string>
+</resources>
